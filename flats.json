@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
+    "name": "San Fernando, La Union",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
     "price": 164,
     "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "lat": 16.605667,
+    "lng": 120.366710
   },
   {
     "id": 148,
